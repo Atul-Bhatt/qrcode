@@ -1,0 +1,49 @@
+@media (min-width: 375px){
+    .outerbox {
+        width: 280px;
+    }
+}
+
+.attribution {margin: 1rem; font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+.background {
+    background-color: hsl(212, 45%, 89%)
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    margin-top: 250px;
+}
+
+.outerbox {
+    border: solid hsl(0, 0%, 100%);
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 10px;
+}
+
+.qrimage {
+    border-radius: 10px;
+    margin: 12px;
+}
+
+.heading{
+    font-family: 'Outfit', sans-serif;
+    font-weight: 700;
+    color: hsl(218, 44%, 22%);
+    font-size: 18px;
+    text-align: center;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.description {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+    color: hsl(220, 15%, 55%);
+    font-size: 14px;
+    text-align: center;
+    margin-left: 25px;
+    margin-right: 25px;
+}
