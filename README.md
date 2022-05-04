@@ -24,10 +24,19 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/Atul-Bhatt/qrcode)
+- Live Site URL: [Live Site URL](https://atul-bhatt.github.io/qrcode/)
 
 ## My process
+
+- I started with giving the background color to body
+- Created a div container
+  - background color
+  - border color
+  - border radius
+- Created a parent container with display flex to get child div at the center
+- Added the image with border radius
+- Styled the text underneath
 
 ### Built with
 
@@ -36,10 +45,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Flexbox
 
 ### What I learned
+- How to use fonts from googleapis
+- Media queries
 
 ### Continued development
 
 ### Useful resources
+- mdn website
 
 ## Author
 
